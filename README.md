@@ -19,5 +19,7 @@ I'm Suhaila Elnemr, AI engineer and AI engineering student.
 - 🌱 I’m currently learning about machine learning & deep learning.  
 - ⚡ In my free time, I solve problems and learn more about AI feilds.
 - 📫 How to reach me: suhailaelnemr@gmail.com
+<!--
 ### Languages and Tools:
 git, python, HTML
+-->
